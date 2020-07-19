@@ -1,16 +1,14 @@
-### Hi there 👋
+# hello! i'm andy. 👋
+I am a human being, high-school student, and wannabe stuff maker. At least, when I'm not procrastinating. Or sleeping. Or both.
 
-<!--
-**AndyThePie/AndyThePie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 i’m currently working on
+A game for a game jam with a friend of mine. And also a [Discord bot](https://github.com/AndyThePie/slabbot).
 
-Here are some ideas to get you started:
+## 🌱 i’m currently learning
+A lot. It's summer. Messing around a bit with **C#** and **JavaScript**. (I should probably figure out TypeScript some day, it sounds cool...)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 how to reach me:
+You can reach me through Discord (@AndzCLiv3#7664), or preferrably email me. Although I have no clue why you'd need to.
+
+## ⚡ fun fact:
+Uhh... hermit crabs are not true crabs...?<sup>[_citation needed_]</sup>
