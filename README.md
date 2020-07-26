@@ -2,7 +2,7 @@
 I am a human being, high-school student, and wannabe stuff maker. At least, when I'm not procrastinating. Or sleeping. Or both.
 
 ## 🔭 i’m currently working on
-A game for a game jam with a friend of mine. And also a [Discord bot](https://github.com/AndyThePie/slabbot).
+I'm continuing work on an [incremental game](https://github.com/AndyThePie/pencil-to-pluto) made originally for a game jam. And also a [Discord bot](https://github.com/AndyThePie/slabbot). A lot of stuff outside of the code world, though,
 
 ## 🌱 i’m currently learning
 A lot. It's summer. Messing around a bit with **C#** and **JavaScript**. (I should probably figure out TypeScript some day, it sounds cool...)
