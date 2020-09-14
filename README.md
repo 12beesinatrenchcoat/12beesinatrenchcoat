@@ -4,7 +4,8 @@ I am a human being, high-school student, and wannabe stuff maker. At least, when
 ## 🔭 i’m currently working on
 Probably a lot of schoolwork. 
 ## 🌱 i’m currently learning
-A lot. It's summer. Messing around a bit with **C#** and **JavaScript**. (I should probably figure out TypeScript some day, it sounds cool...)
+Nothing.
+And by that I mean I'm in school.
 
 ## 📫 how to reach me:
 You can reach me through Discord (@AndzCLiv3#7664), or preferrably email me. Although I have no clue why you'd need to.
