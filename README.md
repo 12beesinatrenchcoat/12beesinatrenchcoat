@@ -3,7 +3,7 @@ I am a human being, high-school student, and wannabe stuff maker. At least, when
 
 ## 🔭 i’m currently working on
 ~~Probably~~ a lot of schoolwork. 
-Oh, and also [slabbot](https://github.com/AndyThePie/slabbot) - a Discord bot that really has no reason to exist. But it's to work on!
+Oh, and also [slabbot](https://github.com/AndyThePie/slabbot) - a Discord bot that really has no reason to exist. But it's fun to work on!
 
 ## 🌱 i’m currently learning
 Whatever the current topic is in school. 
