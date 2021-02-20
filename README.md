@@ -9,7 +9,7 @@ Oh, and also [slabbot](https://github.com/AndyThePie/slabbot) - a Discord bot th
 Whatever the current topic is in school. 
 
 ## 📫 how to reach me:
-You can reach me through Discord (@AndzCLiv3#7664), or email me. Although I have no clue why you'd need to.
+You can reach me through Discord (@12beesinatrenchcoat#7664), or email me. Although I have no clue why you'd need to.
 
 ## ⚡ fun fact:
 Uhh... hermit crabs are not true crabs...?<sup>[_citation needed_]</sup>
