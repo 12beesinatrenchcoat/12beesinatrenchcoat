@@ -1,15 +1,24 @@
-# hello! i'm andy. 👋
-I am a human being, high-school student, and wannabe stuff maker. At least, when I'm not procrastinating. Or sleeping. Or both.
+# hello there! i'm andy. 👋
+I am a human being, high-school student, and wannabe stuff maker. Also tired.
 
 ## 🔭 i’m currently working on
-~~Probably~~ a lot of schoolwork. 
-Oh, and also [slabbot](https://github.com/AndyThePie/slabbot) - a Discord bot that really has no reason to exist. But it's fun to work on!
+- Probably schoolwork.
+- [slabbot](https://github.com/AndyThePie/slabbot), a Discord bot! Basically my method of learning JavaScript.
+- [yt-playlist-discord-webhook](https://github.com/AndyThePie/yt-playlist-discord-webhook), a Python script that posts a message to a Discord webhook whenever there's a new video. 
+And possibly some other projects. I work on this stuff for fun, and to learn code - please don't expect quality! `(^^;)`
 
 ## 🌱 i’m currently learning
-Whatever the current topic is in school. 
+- Whatever's going on in School right now.
+- Whatever an API is.
+- General JavaScript + Python stuff.
 
-## 📫 how to reach me:
-You can reach me through Discord (@12beesinatrenchcoat#7664), or email me. Although I have no clue why you'd need to.
+<details><summary> 🍃 what i want to learn in the future </summary><p>
+  <ul>
+    <li> C++.
+    <li> More (and better) webdev stuff.
+    <li>Gamedev related things (looking at you, Godot!)
+  </ul>
+</p></details>
 
-## ⚡ fun fact:
-Uhh... hermit crabs are not true crabs...?<sup>[_citation needed_]</sup>
+> "An SSL error has occurred and a secure connection to the server cannot be made."
+\- Shakespeare
