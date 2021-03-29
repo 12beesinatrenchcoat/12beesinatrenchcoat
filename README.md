@@ -1,5 +1,4 @@
-# hello there! i'm andy. 👋
-I am a human being, high-school student, and wannabe stuff maker. Also tired.
+# hello there! 👋
 
 ## 🔭 i’m currently working on
 - Probably schoolwork.
@@ -12,7 +11,7 @@ And possibly some other projects. I work on this stuff for fun, and to learn cod
 - Whatever an API is.
 - General JavaScript + Python stuff.
 
-<details><summary> 🍃 what i want to learn in the future </summary><p>
+<details><summary><b>🍃 what i want to learn in the future</b></summary><p>
   <ul>
     <li> C++.
     <li> More (and better) webdev stuff.
