@@ -1,6 +1,8 @@
 # hello there! 👋
 I like code, spreadsheets, and rhythm games. And also too many other things.
 
-:telescope: **I'm working on** stuff. Look at the pinned repositories for my main projects. (I may also have some private projects...)
+![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/2254?logoColor=white%26project=%26recentMS=604800000%26showProject=false)
 
-:seedling: **I'm learning** stuff. Currently the typical web-dev stuff: HTML, JS, CSS, that kind of stuff.
+:telescope: **I'm working on** random web stuff at the moment. Please see pinned repositories + recent activity.
+
+:seedling: **I'm learning** web layout and that type of stuff. Also p5js.
