@@ -6,4 +6,4 @@ I like code, spreadsheets, and rhythm games. And also too many other things.
 
 :telescope: **I'm working on** random web stuff at the moment. Please see pinned repositories + recent activity.
 
-:seedling: **I'm learning** web layout and that type of stuff. Also p5js.
+:seedling: **I'm learning** TypeScript.
