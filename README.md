@@ -7,7 +7,7 @@ Student @ University of North Carolina at Chapel Hill.
 
 🌱 **Currently learning**... Rust? 
 
-🛠️ **Currently working on** a website redesign[^1], some stuff for an Arcaea community tournaments server[^2], and some front-end parts of [cssgunc/compass](https://github.com/cssgunc/compass).
+🛠️ **Currently working on** a website redesign[^1], some stuff for an Arcaea community tournaments server[^2], and some other things...
 
 [^1]: what is this, the 8th one?
 [^2]: consider joining i swear we'll host a tournament eventually (https://discord.gg/AWpMV67ud6)
